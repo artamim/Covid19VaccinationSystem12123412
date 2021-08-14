@@ -1,0 +1,1 @@
+user=User.objects.create_user(select_type=select_type, nid_number=nid_number,birth_date=birth_date,choose_center=choose_center,varify_code=varify_code)
